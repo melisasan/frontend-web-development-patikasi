@@ -1,0 +1,48 @@
+/*External css*/
+
+h1,h2,h3,p,ul,ol,a,nav {
+    font-family: 'Nanum Gothic', sans-serif;
+    text-align: center;
+}
+
+.text-large {
+ font-size: 24px;
+}
+
+h1 {
+    color: #e93b81;
+    text-transform: uppercase;  
+}
+
+h2 {
+    color: #f5abc9;
+    text-transform: uppercase;
+}
+
+h3 {
+    color: #b6c9f0;
+    text-transform: uppercase;   
+}
+
+img {
+    width: 161px;
+    height: 250px;
+}
+
+ul {
+    list-style-type: square;
+    list-style-position: inside
+}
+
+ol {
+    list-style-position: inside
+}
+
+a:link {
+    color: #21094e
+}
+
+a:hover {
+    color: #ffe5e2
+}
+
